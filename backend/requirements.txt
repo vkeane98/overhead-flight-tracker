@@ -1,0 +1,4 @@
+FlightRadarAPI
+bs4
+fastapi
+uvicorn
